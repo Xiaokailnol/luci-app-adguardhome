@@ -1,4 +1,6 @@
 
+msgid "Base Setting"
+msgstr "基础设置"
 
 msgid "Log"
 msgstr "日志"
